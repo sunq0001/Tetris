@@ -21,5 +21,7 @@ version 2.x - add server terminal for MMO
 
 Keyboard A/S/D/W and arrow up/down/left/right can control Tetris move and rotate.
 
+wish you have fun with it.
+
 
 

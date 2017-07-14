@@ -21,6 +21,9 @@ version 2.x - add server terminal for MMO
 
 Keyboard A/S/D/W and arrow up/down/left/right can control Tetris move and rotate.
 
+open test1.html, and click Begin, the game starts. 
+once game over, click restart to play again.
+
 wish you have fun with it.
 
 

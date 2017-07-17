@@ -13,7 +13,7 @@ There are 3pcs 3rd party open libs used in this game:
 
 Just use native JavaScript language, with part of ES6 standard. No any game Engine get involved. 
 
-##Platform to play##
+## Platform to play ##
 Tested in Chrome and Foxfire, running smoothly, but recommend to use Chrome for better game experience.
 IE is not available, Safari and Opera is not tested yet.
 
@@ -36,4 +36,5 @@ Keyboard both A/S/D/W and arrow left/down/right/up can control Tetris move and r
 
 Wish you have fun with it.
 
-7/17/2017 1:42:42 PM 
+
+                                      7/17/2017 1:51:04 PM 

@@ -1,30 +1,39 @@
 
-This is a Tetris game. 
+# ***This is a Tetris game.*** #
 
-There are 3pcs 3rd party open lib used in this game:
-1. jQuery -- events trigger and utils
-2. Raphael -- renderring tetries, animation and events trigger
-3. state-machine -- start,play, end and gameover state with all levels control.
+*a product of an amateur programmer who is interested in making video games*
 
-Just use native Javascript language, but with part of ES6 standard.No any game Engine get invovled. 
+## Source##
+There are 3pcs 3rd party open libs used in this game:
+ 
 
+- jQuery: events trigger and utils 
+- Raphael: rendering Tetries, animation and events trigger
+- State-machine: start,play, end and gameover state with all levels control.
+
+Just use native JavaScript language, with part of ES6 standard. No any game Engine get involved. 
+
+##Platform to play##
 Tested in Chrome and Foxfire, running smoothly, but recommend to use Chrome for better game experience.
 IE is not available, Safari and Opera is not tested yet.
 
+## Where to play ##
+[Play here](http://123.57.207.76)
 
-Version 1.0  -- normal Tetris game.
+## Plan: ##
 
-Plan:
-Version 1.x - add more play methods, such as crazy mode.
-version 2.x - add server terminal for MMO
+- Version 1.0:normal Tetris game. - Done
+- Version 1.x:add more play methods, such as Crazy mode.
+- Version 2.x:add server for MMO
 ...
 
-Keyboard A/S/D/W and arrow up/down/left/right can control Tetris move and rotate.
+## How to play ##
+Keyboard both A/S/D/W and arrow left/down/right/up can control Tetris move and rotate.
 
-open test1.html, and click Begin, the game starts. 
-once game over, click restart to play again.
-
-wish you have fun with it.
-
+- open test1.html, and click Begin, the game starts. 
+- once game over, click restart to play again.
 
 
+Wish you have fun with it.
+
+7/17/2017 1:42:42 PM 

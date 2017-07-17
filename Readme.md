@@ -3,7 +3,7 @@
 
 *a product of an amateur programmer who is interested in making video games*
 
-## Source##
+## Source ##
 There are 3pcs 3rd party open libs used in this game:
  
 

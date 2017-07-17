@@ -14,6 +14,7 @@ There are 3pcs 3rd party open libs used in this game:
 Just use native JavaScript language, with part of ES6 standard. No any game Engine get involved. 
 
 ## Platform to play ##
+
 Tested in Chrome and Foxfire, running smoothly, but recommend to use Chrome for better game experience.
 IE is not available, Safari and Opera is not tested yet.
 

@@ -19,7 +19,7 @@ Tested in Chrome and Foxfire, running smoothly, but recommend to use Chrome for 
 IE is not available, Safari and Opera is not tested yet.
 
 ## Where to play ##
-[Play here](http://123.57.207.76)
+[Play here](https://sunq0001.github.io/Tetris/index.html)
 
 ## Plan: ##
 
